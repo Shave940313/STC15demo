@@ -1,0 +1,8 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\public.obj",
+".\Objects\LED.obj",
+".\Objects\Sys_init.obj",
+".\Objects\Timer0.obj" 
+TO ".\Objects\Project_STC15demo" 
+PRINT(".\Listings\Project_STC15demo.m51") RAMSIZE(256) 
